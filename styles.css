@@ -1,0 +1,24 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(159, 199, 125);
+}
+
+h1, h2, thead {
+    font-weight: bold;
+    text-align: center;
+}
+
+table {
+    border: solid 2px;
+    margin: auto;
+}
+
+td {
+    padding: 5px 20px;
+    text-align: center;
+}
+
+h2 {
+    margin: 40px auto 20px;
+}
+
